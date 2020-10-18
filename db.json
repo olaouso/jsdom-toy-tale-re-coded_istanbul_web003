@@ -46,7 +46,55 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": "Andy needs your help! Add a new toy!NaN"
+    },
+    {
+      "name": "jfgn,r",
+      "image": "werlfjqerk",
+      "likes": 1,
+      "id": 9
+    },
+    {
+      "name": "jfgn,r",
+      "image": "werlfjqerk",
+      "likes": null,
+      "id": 10
+    },
+    {
+      "name": "jfgn,r",
+      "image": "werlfjqerk",
+      "likes": null,
+      "id": 11
+    },
+    {
+      "name": "jfgn,r,jm,",
+      "image": "werlfjqerk",
+      "likes": 2,
+      "id": 12
+    },
+    {
+      "name": "jfgn,r,jm,",
+      "image": "werlfjqerk",
+      "likes": 1,
+      "id": 13
+    },
+    {
+      "name": "jfgn,r,jm,",
+      "image": "werlfjqerk",
+      "likes": null,
+      "id": 14
+    },
+    {
+      "name": "jfgn,r,jm,",
+      "image": "werlfjqerk",
+      "likes": null,
+      "id": 15
+    },
+    {
+      "name": "jhj",
+      "image": "nmn,m",
+      "likes": null,
+      "id": 16
     }
   ]
 }
